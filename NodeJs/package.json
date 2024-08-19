@@ -1,0 +1,25 @@
+{
+  "name": "shubham",
+  "version": "1.0.0",
+  "description": "This is created while learning NodeJs. It is easy to learn.",
+  "main": "index.js",
+  "keywords": [
+    "shubh",
+    "shaan"
+  ],
+  "author": "Shubham Maurya",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.1",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "start": "node exp.js"
+  }
+}
